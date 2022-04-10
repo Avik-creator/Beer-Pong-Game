@@ -22,6 +22,7 @@ Making a lightweight browser game
 ## Installation
 
 No installation required . Just visit the website and enjoy playing !!!
+The website is : https://avik-creator.github.io/Beer-Pong-Game/
     
 ## Authors
 
